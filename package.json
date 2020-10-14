@@ -11,9 +11,14 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
+    "influx": "^5.6.3",
+    "lodash": "^4.17.20",
+    "lowdb": "^1.0.0",
+    "macaddress": "^0.5.1",
     "modbus-serial": "^8.0.1",
     "network-config": "^2.0.0",
     "node-opcua": "^2.2.0",
+    "serialport": "^9.0.1",
     "socket.io": "^2.3.0"
   }
 }
